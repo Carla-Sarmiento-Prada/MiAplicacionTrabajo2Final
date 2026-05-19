@@ -100,7 +100,7 @@ Sube el archivo `TelcoCustomerChurn.csv` o `.xlsx` desde el módulo 📂 Carga d
 
 ## 🌐 Link relevante
 
-🔗 **[Ver aplicación en Streamlit](-------)**
+🔗 **[Ver aplicación en Streamlit](https://miaplicaciontrabajo2final-cssp.streamlit.app/)**
 
 ---
 
