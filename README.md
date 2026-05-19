@@ -27,9 +27,9 @@ telco-churn-eda/
 │
 ├── app.py                  # Aplicación principal Streamlit
 ├── requirements.txt        # Dependencias del proyecto
-├── README.md               # Este archivo
+├── README.md               # Personalizado
 ├── TelcoCustomerChurn.csv  # Dataset 
-└── screenshots/            # Capturas de la app
+└── img                     # Carpeta con Capturas de la app
 ```
 
 
